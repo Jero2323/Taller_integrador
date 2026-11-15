@@ -1,5 +1,5 @@
 # Taller integrador — Encuesta socioeconómica sintética 2026
-
+## Autores: Andrés Iza, Nathaly Veloz, Julián Gaybor, Jerónimo Marchán
 1. Abra `encuesta_calidad.Rproj` en RStudio.
 2. Lea `GUIA_TALLER_INTEGRADOR_PASO_A_PASO.md`.
 3. Complete una a una las etapas `R/00_configuracion.R` a `R/08_verificar_entregables.R`.
